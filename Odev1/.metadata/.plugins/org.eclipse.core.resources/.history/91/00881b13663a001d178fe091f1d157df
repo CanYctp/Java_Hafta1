@@ -1,0 +1,12 @@
+package conditionals;
+
+public class Main {
+	int sayi = 20;
+	if(sayi<20) {
+		System.out.Println("Sayi 20 den kücüktür");
+	}
+	if (sayi<15) {
+		Saystem.out.Println("Sayi 15 den kücüktür");
+	}
+
+}
